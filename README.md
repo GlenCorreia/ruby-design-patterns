@@ -1,7 +1,7 @@
 # Design Patterns in Ruby
 
  - Creational Patterns
-      - Singleton
+      - [Singleton](./Creational/Singleton/){:target="_blank"}
       - Factory
       - Abstract Factory
       - Builder
