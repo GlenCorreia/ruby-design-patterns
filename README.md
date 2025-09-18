@@ -1,31 +1,31 @@
 # Design Patterns in Ruby
 
- - [Creational Patterns](./Creational/)
-      - [Singleton](./Creational/Singleton/)
-      - [Factory](./Creational/Factory/)
-      - [Abstract Factory](./Creational/AbstractFactory/)
-      - [Builder](./Creational/Builder/)
-      - [Prototype](./Creational/Prototype/)
-  - Structural Patterns
-      - Decorator
-      - Adapter
-      - Composite
-      - Proxy
-      - Bridge
-      - Facade
-      - Flyweight
-  - Behavioural Patterns
-      - Observer
-      - Strategy
-      - Command
-      - State
-      - Template
-      - Iterator
-      - Mediator
-      - Chain of Responsibility
-      - Memento
-      - Visitor
-      - Interpreter
+1. [Creational Patterns](./1_creational/)
+      a. [Singleton](./1_creational/a.singleton/)
+      b. [Factory](./1_creational/b.factory/)
+      c. [Abstract Factory](./1_creational/c.abstract_factory/)
+      d. [Builder](./1_creational/d.builder/)
+      e. [Prototype](./1_creational/e.prototype/)
+2. Structural Patterns
+      a. Decorator
+      b. Adapter
+      c. Composite
+      d. Proxy
+      e. Bridge
+      f. Facade
+      g. Flyweight
+3. Behavioural Patterns
+      a. Observer
+      b. Strategy
+      c. Command
+      d. State
+      e. Template
+      f. Iterator
+      g. Mediator
+      h. Chain of Responsibility
+      i. Memento
+      j. Visitor
+      k. Interpreter
 
 ---
 
