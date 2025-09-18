@@ -3,8 +3,8 @@
   instance and provides a global point of access to it.
 
   🧠 WHY use Singleton?
-    - You want exactly one object to coordinate ations across your system (e.g., a
-    config manager, logger, or cache).
+    - You want exactly one object to coordinate actions across your system (e.g., a
+      config manager, logger, or cache).
     - You want controlled access to shared resources.
     - You want to prevent multiple instantiations of a class.
 =end
