@@ -3,9 +3,9 @@
  - [Creational Patterns](./Creational/)
       - [Singleton](./Creational/Singleton/)
       - [Factory](./Creational/Factory/)
-      - Abstract Factory
-      - Builder
-      - Prototype
+      - [Abstract Factory](./Creational/AbstractFactory/)
+      - [Builder](./Creational/Builder/)
+      - [Prototype](./Creational/Prototype/)
   - Structural Patterns
       - Decorator
       - Adapter
