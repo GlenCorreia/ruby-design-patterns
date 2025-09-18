@@ -1,31 +1,32 @@
 # Design Patterns in Ruby
 
-1. [Creational Patterns](./1_creational/)
-      a. [Singleton](./1_creational/a.singleton/)
-      b. [Factory](./1_creational/b.factory/)
-      c. [Abstract Factory](./1_creational/c.abstract_factory/)
-      d. [Builder](./1_creational/d.builder/)
-      e. [Prototype](./1_creational/e.prototype/)
-2. Structural Patterns
-      a. Decorator
-      b. Adapter
-      c. Composite
-      d. Proxy
-      e. Bridge
-      f. Facade
-      g. Flyweight
-3. Behavioural Patterns
-      a. Observer
-      b. Strategy
-      c. Command
-      d. State
-      e. Template
-      f. Iterator
-      g. Mediator
-      h. Chain of Responsibility
-      i. Memento
-      j. Visitor
-      k. Interpreter
+
+ 1. [Creational Patterns](./1_creational/)
+      - [a. Singleton](./1_creational/a.singleton/)
+      - [b. Factory](./1_creational/b.factory/)
+      - [c. Abstract Factory](./1_creational/c.abstract_factory/)
+      - [d. Builder](./1_creational/d.builder/)
+      - [e. Prototype](./1_creational/e.prototype/)
+  2. [Structural Patterns](./2_structural/)
+      - [a. Decorator](./2_structural/a.decorator/)
+      - [b. Adapter](./2_structural/b.adapter/)
+      - [c. Composite](./2_structural/c.composite/)
+      - [d. Proxy](./2_structural/d.proxy/)
+      - [e. Bridge](./2_structural/e.bridge/)
+      - [f. Facade](./2_structural/f.facade/)
+      - [g. Flyweight](./2_structural/g.flyweight/)
+  3. [Behavioural Patterns](./2_behavioral/)
+      - [a. Observer](./2_behavioral/a.observer/)
+      - [b. Strategy](./2_behavioral/b.strategy/)
+      - [c. Command](./2_behavioral/c.command/)
+      - [d. State](./2_behavioral/d.state/)
+      - [e. Template](./2_behavioral/e.template/)
+      - [f. Iterator](./2_behavioral/f.iterator/)
+      - [g. Mediator](./2_behavioral/g.mediator/)
+      - [h. Chain of Responsibility](./2_behavioral/h.chain_of_responsibility/)
+      - [i. Memento](./2_behavioral/i.memento/)
+      - [j. Visitor](./2_behavioral/j.visitor/)
+      - [k. Interpreter](./2_behavioral/k.interpreter/)
 
 ---
 
