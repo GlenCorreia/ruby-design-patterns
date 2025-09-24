@@ -4,7 +4,7 @@
 
 A dependency is the weakest relationship, indicating that one class uses another class. It's often temporary and occurs when a class uses an instance of another class, but does not maintain a long-term reference to it. Dependency is a "uses a" relationship. 
 
-![dependency](./images_for_md/dependency.png)
+![dependency](./files_for_md/dependency.png)
 
 Key characteristics:
 
@@ -16,7 +16,7 @@ Key characteristics:
 
 Association is a broader, more permanent relationship where one class holds a reference to an instance of another class. It represents a "has a" relationship, but the objects can exist independently. A class maintains a reference to another object through an instance variable.
 
-![association](./images_for_md/association.png)
+![association](./files_for_md/association.png)
 
 Key characteristics:
 
@@ -28,7 +28,7 @@ Key characteristics:
 
 Aggregation is a special form of association representing a "whole-part" relationship, but the "part" (contained object) can exist independently of the "whole" (container object). It is a weak "has a" relationship.
 
-![aggregation](./images_for_md/aggregation.png)
+![aggregation](./files_for_md/aggregation.png)
 
 Key characteristics:
 
@@ -40,10 +40,16 @@ Key characteristics:
 
 Composition is a strong form of aggregation where the contained object's lifecycle is completely dependent on its container. It is a strong "part of" or "death" relationship. If the container object is destroyed, the contained object is also destroyed.
 
-![composition](./images_for_md/composition.png)
+![composition](./files_for_md/composition.png)
 
 Key characteristics:
 
 - __Exclusive ownership__: The contained object belongs exclusively to its container.
 - __Dependent lifecycle__: The "part" cannot exist without the "whole".
 - __Creation and destruction responsibility__: The container is responsible for creating and destroying its parts. 
+
+---
+
+## REFERENCE
+
+[Click here to view the PDF](./files_for_md/relation_between_objects_split.pdf)
