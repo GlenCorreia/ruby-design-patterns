@@ -10,7 +10,7 @@
 =end
 
 # Step 1: Define a common interface
-class SignalProcessor
+class SignalProcessor # This is the interface class
   def process
     raise NotImplementedError, "Subclass must implement `process`"
   end
