@@ -75,3 +75,8 @@ These focus on communication between objects.
 | Memento | Captures and restores object state. |
 | Visitor | Adds operations to objects without modifying them. |
 | Interpreter | Implements a grammar interpreter. |
+
+
+---
+
+TODO - To include Byebug and RSpec. Also RuboCop and TravisCI.
