@@ -1,5 +1,3 @@
-require 'pry'
-
 # A Student has a Teacher. When the student is destroyed (e.g., graduates), the Teacher still exists independently
 
 class Teacher
