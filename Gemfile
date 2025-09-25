@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem 'pry', '~> 0.15.0'
+gem 'byebug', '~> 11.1', '>= 11.1.3'
